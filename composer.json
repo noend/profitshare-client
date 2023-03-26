@@ -1,12 +1,12 @@
 {
-	"name": "catalin-ionut/profitshare-client",
+	"name": "noend/profitshare-client",
 	"type": "library",
 	"description": "Profitshare modern client to consume the profitshare API.",
 	"keywords": [
 		"profitshare",
 		"api"
 	],
-	"homepage": "https://github.com/Catalin-Ionut/profitshare-client",
+	"homepage": "https://github.com/noend/profitshare-client",
 	"license": "MIT",
 	"authors": [
 		{
