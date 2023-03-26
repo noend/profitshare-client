@@ -18,7 +18,7 @@ use Symfony\Contracts\HttpClient\ResponseInterface;
 
 class Profitshare
 {
-    private const API_URL = 'http://api.profitshare.ro/';
+    private const API_URL = 'http://api.profitshare.bg/';
 
     /** @var string */
     private $apiKey;
